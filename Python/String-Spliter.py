@@ -1,3 +1,5 @@
+# For easier manual data spliting when hardcoding lists
+
 split_val = input("Val to split: ")
 print()
 user_input = input("Enter String: ")
